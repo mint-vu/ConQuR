@@ -69,10 +69,11 @@ The evaluation pipeline is adapted from [DartQuant](https://openreview.net/forum
 ## Citation
 
 ```bibtex
-@inproceedings{thrash2026conqur,
-  title     = {ConQuR: Corner Aligned Activation Quantization via Optimized Rotations for LLMs},
-  author    = {Thrash, Chayne and Abbasi, Ali and Kolouri, Soheil},
-  booktitle = {Advances in Neural Information Processing Systems},
-  year      = {2026}
+@inproceedings{
+conqur,
+title={ConQuR: Corner Aligned Activation Quantization via Optimized Rotations for {LLM}s},
+author={Thrash, Chayne and Abbasi, Ali and Kolouri, Soheil},
+booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+year={2026}
 }
 ```
